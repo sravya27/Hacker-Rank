@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         public void personDetails()
         {
+            TypeConversion.stringToInt();
             Console.WriteLine("Enter your first name ");
             String fname = Console.ReadLine();
             Console.WriteLine("Enter your last name ");
