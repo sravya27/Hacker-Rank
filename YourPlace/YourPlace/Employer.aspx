@@ -18,5 +18,5 @@
         Job Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
     </p>
-    <asp:Button ID="Button1" runat="server" Text="Upload" />
+    <asp:Button ID="Button1" runat="server" Text="Upload" OnClick="Button1_Click" />
 </asp:Content>

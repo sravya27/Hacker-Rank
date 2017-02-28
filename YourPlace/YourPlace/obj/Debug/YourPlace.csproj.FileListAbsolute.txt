@@ -31,3 +31,36 @@ c:\users\sravs\documents\visual studio 2015\Projects\YourPlace\YourPlace\bin\Mic
 c:\users\sravs\documents\visual studio 2015\Projects\YourPlace\YourPlace\obj\Debug\YourPlace.csprojResolveAssemblyReference.cache
 c:\users\sravs\documents\visual studio 2015\Projects\YourPlace\YourPlace\obj\Debug\YourPlace.dll
 c:\users\sravs\documents\visual studio 2015\Projects\YourPlace\YourPlace\obj\Debug\YourPlace.pdb
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\obj\Debug\YourPlace.csprojResolveAssemblyReference.cache
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\obj\Debug\YourPlace.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\obj\Debug\YourPlace.pdb
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\ApplicationInsights.config
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\csc.exe
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\vbc.exe
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\YourPlace.dll.config
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\YourPlace.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\YourPlace.pdb
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.Web.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.Web.xml
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Sravs\Documents\GithubRepos\MyVisualStudio\YourPlace\YourPlace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
