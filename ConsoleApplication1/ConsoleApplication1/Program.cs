@@ -16,8 +16,14 @@ using ConsoleApplication1;
         //Params p = new Params();
         //p.arrayParams(1, 2, 3);
 
-        Constructorclass cc = new Constructorclass();
-        cc.printName();
+        //Constructorclass cc = new Constructorclass();
+        //cc.printName();
+
+        //MethodHiding mh = new A();
+        // mh.printName();
+
+        Properties p = new Properties();
+        Console.WriteLine(p.Id=7);
 
         Console.ReadKey();
         }
