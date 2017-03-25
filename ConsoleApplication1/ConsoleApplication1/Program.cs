@@ -22,8 +22,35 @@ using ConsoleApplication1;
         //MethodHiding mh = new A();
         // mh.printName();
 
-        Properties p = new Properties();
-        Console.WriteLine(p.Id=7);
+        //Properties p = new Properties();
+        //Console.WriteLine(p.Id=7);
+
+        //BubbleSort bs = new BubbleSort();
+        //bs.bubbleSort();
+
+        MergeSort ms = new MergeSort();
+        ms.declareArray();
+
+        //StringReverse sr = new StringReverse();
+        //sr.stringReverse();
+
+        //Prime p = new Prime();
+        //p.prime();
+
+        //Matrix m = new Matrix();
+        //m.matrix();
+
+        //Test t = new Test();
+        //t.test();
+
+        //Time t = new Time();
+        //t.convertTime();
+
+        //stringShorten ss = new stringShorten();
+        //ss.StringShorten();
+
+        //stringShort s = new stringShort();
+        //s.StringShort();
 
         Console.ReadKey();
         }
